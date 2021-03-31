@@ -162,7 +162,7 @@
 		<text name="ui_helperSprayer">
 			<en><![CDATA[Fertilizing:]]></en>
 			<de><![CDATA[Düngen:]]></de>
-			<ru><![CDATA[Внесен. удобрений:]]></ru>
+			<ru><![CDATA[Удобрение:]]></ru>
 		</text>
 		
 		<text name="ui_helperSowing">
